@@ -35,7 +35,7 @@ SEE [SCHEMATICS](KiCAD/FOC.pdf)
 
 | Category           | Item             |    Quantity | Supplier     | Unit Cost (USD) | Total Cost (USD) | Notes                               |
 | ------------------ | ---------------- | ----------: | ------------ | --------------: | ---------------: | ----------------------------------- |
-| PCB manufacturing  | JLCPCB order     |           1 | JLCPCB       |         $463.78 |          $463.78 | JLCPCB order subtotal               |
+| PCB manufacturing  | JLCPCB order     |           1 | JLCPCB       |         $427.16 |          $427.16 | JLCPCB order subtotal               |
 | Shipping           | FedEx shipping   |           1 | FedEx        |          $36.62 |           $36.62 | Included in the quoted JLCPCB total |
 | Passive components | SMD resistors    | As required | Daraz        |           $0.00 |            $0.00 | Already owned                       |
 | Passive components | SMD capacitors   | As required | Daraz        |           $0.00 |            $0.00 | Already owned                       |
